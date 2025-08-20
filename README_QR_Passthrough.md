@@ -7,17 +7,17 @@ Once a QR code is scanned using the passthrough feed, the system casts a ray int
 
 ---
 
-## 🔹 Key Features
+## Key Features
 
-- 🟡 Real-time QR detection from passthrough stream
-- 🟢 Object placement using raycast surface hit
-- 🧱 Adjustable object transforms after placement
-- 🔍 Ray + debug visual markers to confirm detection
-- 📝 TextMeshPro UI logging for in-headset feedback
+- Real-time QR detection from passthrough stream
+- Object placement using raycast surface hit
+- Adjustable object transforms after placement
+- Ray + debug visual markers to confirm detection
+- TextMeshPro UI logging for in-headset feedback
 
 ---
 
-## 🔧 Requirements
+## Requirements
 
 - Unity 2022.3 LTS or Unity 6 (URP)
 - Meta Quest 3 (or 2/Pro with passthrough)
@@ -27,7 +27,7 @@ Once a QR code is scanned using the passthrough feed, the system casts a ray int
 
 ---
 
-## ▶️ How to Use
+## How to Use
 
 1. Clone or download this repository
 2. Open it in Unity Hub
@@ -39,7 +39,7 @@ Once a QR code is scanned using the passthrough feed, the system casts a ray int
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 QR-Scan/
@@ -65,7 +65,7 @@ QR-Scan/
 
 ---
 
-## 🛠 Credits
+## Credits
 
 - Built by Naman Sahai  
 - Meta XR SDK (All-in-One)  
@@ -74,7 +74,7 @@ QR-Scan/
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Tested on Meta Quest 3
 - Works best with good lighting and clear QR codes
